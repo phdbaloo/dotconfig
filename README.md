@@ -14,7 +14,7 @@ TBD soon
 - [ ] Create cheatsheet for vim commands and tmux commands to memorize asap
   - or see how to add them inside the current cmd cheatsheet
 - [ ] Create a bash script to automatically setup the config
-- [ ] Add bg images dir inside the repo
+- [x] Add bg images dir inside the repo
 
 ## Files
 
@@ -33,14 +33,18 @@ TBD soon
 TBD
 
 **Tmux :**
+
 Different versions of tmux are present with different themes and their config<D-s>.
 
 **Zshrc :**
+
 Default choice of shell. Simple config with a couple plugins and a basic theme from zsh themselves.
 
 **Bashrc :**
+
 TBD
 
 **Kitty :**
+
 Default choice for a terminal editor.
 Current theme and config files
