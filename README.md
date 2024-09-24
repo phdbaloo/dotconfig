@@ -6,7 +6,7 @@ TBD soon
 
 ## Checklist
 
-- [ ] Terminal theme (Kitty)
+- [x] Terminal theme (Kitty)
 - [ ] Learn Lua
 - [ ] Continue to lear VIM
 - [ ] Finish settin up nvchad lsps (md/tsx/etc)
@@ -15,6 +15,7 @@ TBD soon
   - or see how to add them inside the current cmd cheatsheet
 - [ ] Create a bash script to automatically setup the config
 - [x] Add bg images dir inside the repo
+- [ ] Add vscode settings config as well
 
 ## Files
 
