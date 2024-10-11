@@ -2,15 +2,21 @@
 
 ## Installation
 
-TBD soon
+Will be completed soon enough.
+Need to install each file as a symlink, and dependencies for each tech.
+
+**Symlinks:**
+- .zshrc
+- tmux dir
+
+**Dependencies:**
+
 
 ## Checklist
 
 - [x] Terminal theme (Kitty)
 - [ ] Learn Lua
 - [ ] Continue to lear VIM
-- [ ] Finish settin up nvchad lsps (md/tsx/etc)
-- [ ] Change theme config nvchad
 - [ ] Create cheatsheet for vim commands and tmux commands to memorize asap
   - or see how to add them inside the current cmd cheatsheet
 - [ ] Create a bash script to automatically setup the config
@@ -27,15 +33,14 @@ TBD soon
 ## Tech
 
 **Nvim :**
-
-- Currently using NvChad as a everything-in-one solution while learning Lua
+- Two different ready to go setups with nvchad and a basic feature setup which is my go to.
 
 **Vim :**
 TBD
 
 **Tmux :**
 
-Different versions of tmux are present with different themes and their config<D-s>.
+Different versions of tmux are present with different themes and their configs.
 
 **Zshrc :**
 
