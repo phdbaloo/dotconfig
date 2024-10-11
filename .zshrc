@@ -5,8 +5,9 @@ export TERM=xterm-256color
 
 # ZSH_THEME="half-life"
 # ZSH_THEME="kolo"
-ZSH_THEME="miloshadzic"
+# ZSH_THEME="miloshadzic"
 # ZSH_THEME="kardan" 
+ZSH_THEME="wedisagree"
 
 plugins=(git web-search zsh-autosuggestions zsh-syntax-highlighting)
  
