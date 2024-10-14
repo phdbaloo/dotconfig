@@ -9,10 +9,10 @@ Need to install each file as a symlink, and dependencies for each tech.
 - tmux dir
 
 **Dependencies:**
-Zsh => [Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
-Zsh => [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
-Zsh => [Basher](https://github.com/basherpm/basher)
-Zsh => [Bat](https://github.com/sharkdp/bat)
+- Zsh => [Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+- Zsh => [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- Zsh => [Basher](https://github.com/basherpm/basher)
+- Zsh => [Bat](https://github.com/sharkdp/bat)
 
 ## Learning cursus
 - [ ] Continue to lear VIM
