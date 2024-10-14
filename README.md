@@ -15,13 +15,12 @@ Need to install each file as a symlink, and dependencies for each tech.
 ## Checklist
 
 - [x] Terminal theme (Kitty)
-- [ ] Learn Lua
-- [ ] Continue to lear VIM
-- [ ] Create cheatsheet for vim commands and tmux commands to memorize asap
-  - or see how to add them inside the current cmd cheatsheet
-- [ ] Create a bash script to automatically setup the config
 - [x] Add bg images dir inside the repo
+- [ ] Continue to lear VIM
+- [ ] Create cheatsheet for vim commands and tmux commands to memorize asap or see how to add them inside the current cmd cheatsheet
+- [ ] Create a bash script to automatically setup the config
 - [ ] Add vscode settings config as well
+- [ ] Learn Lua
 
 ## Files
 
