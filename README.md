@@ -1,7 +1,6 @@
 # Baloo's dotconfig
 
 ## Installation
-
 Will be completed soon enough.
 Need to install each file as a symlink, and dependencies for each tech.
 
@@ -10,21 +9,24 @@ Need to install each file as a symlink, and dependencies for each tech.
 - tmux dir
 
 **Dependencies:**
+Zsh => (Autosuggestions)[https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md]
+Zsh => (zsh-syntax-highlighting)[https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md]
+Zsh => (Basher)[https://github.com/basherpm/basher]
+Zsh => (Bat)[https://github.com/sharkdp/bat]
 
 ## Learning cursus
 - [ ] Continue to lear VIM
 - [ ] Learn Lua
 
 ## Checklist
-
 - [x] Terminal theme (Kitty)
 - [x] Add bg images dir inside the repo
 - [x] Add vscode settings config as well
-- [ ] Create cheatsheet for vim commands and tmux commands to memorize asap or see how to add them inside the current cmd cheatsheet
-- [ ] Create a bash script to automatically setup the config
+- [ ] Create cheatsheet for vim commands and tmux commands to memorize asap or see how to add them inside the current cmd cheatsheet
+- [ ] Add correct symlinks for each file
+- [ ] Create a bash script to automatically setup the config
 
 ## Files
-
 - .zshrc
 - .bashrc
 - Different tmux-confs based on themes
@@ -37,7 +39,6 @@ Need to install each file as a symlink, and dependencies for each tech.
 - Bg imgs
 
 ## Tech
-
 **Nvim :**
 
 **Vim :**
