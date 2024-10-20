@@ -4,10 +4,6 @@
 Will be completed soon enough.
 Need to install each file as a symlink, and dependencies for each tech.
 
-**Symlinks:**
-- .zshrc
-- tmux dir
-
 **Dependencies:**
 - Zsh => [Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 - Zsh => [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
@@ -23,7 +19,10 @@ Need to install each file as a symlink, and dependencies for each tech.
 - [x] Add bg images dir inside the repo
 - [x] Add vscode settings config as well
 - [ ] Create cheatsheet for vim commands and tmux commands
+- [ ] Rework zsh config
+- [ ] Rework kitty config for tabs
 - [ ] Add correct symlinks for each file
+    - use GNU stow
 - [ ] Create a bash script to automatically setup the config
 
 ## Files
@@ -38,17 +37,3 @@ Need to install each file as a symlink, and dependencies for each tech.
 - Nuphy air75 shorcuts
 - Bg imgs
 
-## Tech
-**Nvim :**
-
-**Vim :**
-
-**Tmux :**
-
-**Zshrc :**
-
-**Bashrc :**
-
-**Kitty :**
-Default choice for a terminal editor.
-Current theme and config files
