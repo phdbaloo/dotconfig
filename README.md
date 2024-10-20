@@ -24,6 +24,9 @@ Need to install each file as a symlink, and dependencies for each tech.
 - [ ] Add correct symlinks for each file
     - use GNU stow or simple bash script
 - [ ] Create a bash script to automatically setup the config
+    - Symlinks to all files and folders
+    - install dependencies for each file when needed
+    - have params to choose which type of machine (server / computer)
 
 ## Files
 - .zshrc
