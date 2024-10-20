@@ -30,6 +30,11 @@ Also need [Kitty terminal](https://sw.kovidgoyal.net/kitty/) installed before la
 - [ ] Rework kitty config
     - 3 different versions right now
     - Take best of all of them
+- [ ] Change Vim config
+    - Remove random theme and all plugins
+    - Make it as basic as possible
+    - Keep some keybindings
+- [ ] Change Nvim config & theme
 - [ ] Add correct symlinks for each file
     - use GNU stow or simple bash script
 - [ ] Create a bash script to automatically setup the config
