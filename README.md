@@ -22,7 +22,7 @@ Need to install each file as a symlink, and dependencies for each tech.
 - [ ] Rework zsh config
 - [ ] Rework kitty config for tabs
 - [ ] Add correct symlinks for each file
-    - use GNU stow
+    - use GNU stow or simple bash script
 - [ ] Create a bash script to automatically setup the config
 
 ## Files
