@@ -20,7 +20,11 @@ Need to install each file as a symlink, and dependencies for each tech.
 - [x] Add vscode settings config as well
 - [ ] Create cheatsheet for vim commands and tmux commands
 - [ ] Rework zsh config
-- [ ] Rework kitty config for tabs
+    - 2 configs, one con OMZ, one without
+    - Clean up both of them
+- [ ] Rework kitty config
+    - 3 different versions right now
+    - Take best of all of them
 - [ ] Add correct symlinks for each file
     - use GNU stow or simple bash script
 - [ ] Create a bash script to automatically setup the config
