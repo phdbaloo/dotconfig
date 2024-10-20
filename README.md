@@ -4,11 +4,16 @@
 Will be completed soon enough.
 Need to install each file as a symlink, and dependencies for each tech.
 
+Need zsh installed and set to current shell.
+Also need [Kitty terminal](https://sw.kovidgoyal.net/kitty/) installed before launching the install script.
+
 **Dependencies:**
-- Zsh => [Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
-- Zsh => [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
-- Zsh => [Basher](https://github.com/basherpm/basher)
+- Zsh (omz) => [Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+- Zsh (omz) => [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- Zsh (omz) => [Basher](https://github.com/basherpm/basher)
 - Zsh => [Bat](https://github.com/sharkdp/bat)
+- Brew => [Fzf](https://github.com/junegunn/fzf)
+- Brew => [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## Learning cursus
 - [ ] Continue to lear VIM
